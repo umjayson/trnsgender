@@ -6,7 +6,7 @@
     <title>jayson here xd</title>
 
     <meta property="og:title" content="trnsgender.lol" />
-    <meta property="og:image" content="https://images-ext-1.discordapp.net/external/5I54CWKf9K-7h3KqwRQMhe7KYKe92UgJrIb9LqdO9bw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1277553981408677980/d91597284c7790dcebef36aa8d1da497.webp?format=webp&width=676&height=676" />
+    <meta property="og:image" content="https://cdn.discordapp.com/avatars/1277553981408677980/d91597284c7790dcebef36aa8d1da497.webp?size=4096" />
     <meta property="og:url" content="https://trnsgender.lol" />
     <meta name="twitter:card" content="summary_large_image">
    <script disable-devtool-auto="" src="https://cdn.jsdelivr.net/npm/disable-devtool"></script>
